@@ -1,12 +1,5 @@
 import turtle
 
-339
-334
-329
-324
-309
-304
-
 def draw_square(turtle, j, angle):
     for i in range(4):
         turtle.forward(j*2)
